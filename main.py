@@ -4,6 +4,7 @@ preis_premium = 3.0
 preis_basis = 4.0
 preis_ohne_museumclub_mitglied = 5.0
 preis_zwischen_14_und_17 = 3.5
+
 print ("Deutsch / English")
 sprache = input()
 if sprache == "Deutsch":   
